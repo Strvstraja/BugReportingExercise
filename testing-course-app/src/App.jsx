@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>Software Testing Course Demo</h1>
+        <h1>How to Write Bug Reports That Don't Suck Example</h1>
         <nav>
           <button 
             className={activePage === 'login' ? 'active' : ''} 
