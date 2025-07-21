@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>How to Write Bug Reports That Don't Suck Example</h1>
+        <h1>How to Write Bug Reports That Don't Suck</h1>
         <nav>
           <button 
             className={activePage === 'login' ? 'active' : ''} 
@@ -63,7 +63,7 @@ function App() {
       </main>
       
       <footer>
-        <p>Created for Software Testing Course - {new Date().getFullYear()}</p>
+        <p>Created for How to Write Bug Reports That Don't Suck - 2025</p>
       </footer>
     </div>
   );
